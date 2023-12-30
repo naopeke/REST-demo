@@ -1,7 +1,11 @@
 # REST-demo
 
+
 ```
-npm  uuid
+npm i nodemon
+```
+```
+npm  i uuid
 ```
 https://www.npmjs.com/package/method-override
 ```
